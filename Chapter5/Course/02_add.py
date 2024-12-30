@@ -1,4 +1,10 @@
 def add(arg1, arg2):
+    """
+    Add two numbers
+    :param arg1: Number 1
+    :param arg2: Number 2
+    :return: Sum
+    """
     return arg1 + arg2
 
 
