@@ -36,4 +36,6 @@ name_string5 = "Jean-Lucas and Lucas"
 print(name_string5.count('Lucas'))
 print(len(name_string5))
 
+name_string6 = "  "
+print(len(name_string6))
 
